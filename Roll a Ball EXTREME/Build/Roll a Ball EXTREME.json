@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll a Ball",
+"dataUrl": "Roll a Ball EXTREME.data.unityweb",
+"wasmCodeUrl": "Roll a Ball EXTREME.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll a Ball EXTREME.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
